@@ -17,7 +17,7 @@ load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 st.set_page_config(layout="wide")
-record_id = 1
+record_id = 0
 dataset_filename = "dataset.json"
 
 
@@ -104,7 +104,7 @@ def main():
     )
     available_resouces = st.text_area(
         "Available Resources",
-        json.dumps(add_record(export_record), indent=True),
+        json.dumps(add_record(export_record), indent=4),
         height=300,
     )
     c1, c2 = st.columns((1, 1))
@@ -137,17 +137,15 @@ def main():
             src_field = field["source"]
             line = "{} <==> {}".format(src_field, dest_field)
             lines.append(line)
-            final_mapping_obj[src_field] = "{{ {} }}".format(dest_field)
+            final_mapping_obj[src_field] = "{{{{ {} }}}}".format(dest_field)
 
         # st.text_area("Response", response, height=300)
         st.text_area("Mapping", "\n".join(lines), height=300)
         st.text_area(
-            "Handlebar", json.dumps(final_mapping_obj, indent=True), height=300
+            "Flat Handlebar", json.dumps(final_mapping_obj, indent=4), height=300
         )
         nested_dict = from_flattened({}, final_mapping_obj)
-        st.text_area(
-            "Nested dictionary", json.dumps(nested_dict, indent=True), height=300
-        )
+        st.text_area("Nested Handlebar", json.dumps(nested_dict, indent=4), height=300)
 
 
 if __name__ == "__main__":
