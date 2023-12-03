@@ -1,0 +1,2695 @@
+[
+    {
+"_id": "63987132784a39b73aae63cd",
+"name": "15Five",
+"createdAt": "2023-01-17T09:51:46.326Z",
+"lastModified": "2023-07-06T11:29:09.699Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4411468706203-Set-up-a-connection-to-15Five",
+"legacyId": "15five",
+"legacyIds": [
+"15five"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6345f57469f848d92751bfbe",
+"name": "3PL Central",
+"createdAt": "2023-08-21T11:41:51.717Z",
+"lastModified": "2023-08-21T11:41:51.850Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360041605512-Set-up-a-connection-to-3PL-Central",
+"legacyId": "3plcentral",
+"legacyIds": [
+"3plcentral"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "643f979ba497de42c12951cf",
+"name": "4CastPlus",
+"createdAt": "2023-05-24T10:50:51.053Z",
+"lastModified": "2023-07-06T11:28:42.503Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360040467711-Set-up-a-connection-to-4castplus",
+"legacyId": "4castplus",
+"legacyIds": [
+"4castplus"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64b6bd14fe75f35b6750da0f",
+"name": "ABBYY",
+"createdAt": "2023-08-17T13:22:32.583Z",
+"lastModified": "2023-08-17T13:22:32.675Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/17303193218971-Set-up-a-connection-to-Abbyy",
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63987e1d14fe9af4161e342c",
+"name": "ADP Workforce Now",
+"createdAt": "2023-01-17T10:55:36.159Z",
+"lastModified": "2023-07-06T11:29:34.895Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038433932-Set-up-a-connection-to-ADP-using-SSL",
+"legacyId": "adp",
+"legacyIds": [
+"adp"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64b79dd51e6c20e732508b50",
+"name": "Accelo",
+"createdAt": "2023-09-26T11:01:07.188Z",
+"lastModified": "2023-09-29T06:06:17.536Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360039957971-Set-up-a-connection-to-Accelo",
+"legacyId": "accelo",
+"legacyIds": [
+"accelo"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63aebfa1ac2ea594b6a39dc1",
+"name": "ActiveCampaign",
+"createdAt": "2023-05-24T10:51:18.279Z",
+"lastModified": "2023-07-06T11:31:17.868Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038851691-Set-up-a-connection-to-ActiveCampaign",
+"legacyId": "activecampaign",
+"legacyIds": [
+"activecampaign"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64be227238843da68b0cd92c",
+"name": "ActiveMQ",
+"createdAt": "2023-08-17T13:25:25.159Z",
+"lastModified": "2023-08-17T13:25:25.223Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/17303310979099-Set-up-a-connection-to-ActiveMQ",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64b0e126b2453cd0fa126aae",
+"name": "Adobe Sign",
+"createdAt": "2023-08-21T11:31:23.974Z",
+"lastModified": "2023-08-21T11:31:24.004Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360057608471-Set-up-a-connection-to-Adobe-Sign",
+"legacyId": "adobesign",
+"legacyIds": [
+"adobesign"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "65239ffcc6a3f4d9f7c41ce7",
+"name": "AfterShip",
+"createdAt": "2023-11-09T06:40:39.598Z",
+"lastModified": "2023-11-09T06:40:39.646Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/19478051825307",
+"apis": [
+"Returns",
+"Shipping",
+"Tracking"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63f44d4c29fbd6846b6a330a",
+"name": "Afterpay",
+"createdAt": "2023-04-12T09:58:18.113Z",
+"lastModified": "2023-07-06T11:33:56.219Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/13703844159643-Set-up-a-connection-to-Afterpay",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64ed9a36c3746a84b8e878bd",
+"name": "Akeneo",
+"createdAt": "2023-09-27T14:04:11.206Z",
+"lastModified": "2023-11-09T06:36:51.824Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/18244707691547-Akeneo",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64ec8d21323d0b42f812e1fa",
+"name": "Alibaba",
+"createdAt": "2023-09-27T13:11:18.239Z",
+"lastModified": "2023-09-27T13:19:05.287Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/18910625055387",
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63fc8ecfd0faea38b4a78cb7",
+"name": "Amazon Redshift (REST API)",
+"createdAt": "2023-05-24T10:36:48.002Z",
+"lastModified": "2023-07-06T11:34:04.162Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360042875872-Set-up-a-connection-to-Amazon-Redshift",
+"legacyId": "redshift",
+"legacyIds": [
+"redshift"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63fedf887e5d529b50c55771",
+"name": "Anaplan",
+"createdAt": "2023-04-12T10:01:27.227Z",
+"lastModified": "2023-07-06T11:34:04.966Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360049876251-Set-up-a-token-based-auth-connection-to-Anaplan",
+"legacyId": "anaplan",
+"legacyIds": [
+"anaplan"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6375de9c0da7b008b475f1af",
+"name": "Asana",
+"createdAt": "2023-01-17T10:40:10.742Z",
+"lastModified": "2023-07-06T11:34:05.301Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038898551-Set-up-a-connection-to-Asana",
+"legacyId": "asana",
+"legacyIds": [
+"asana"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "647de62ada718d5a2cc317dd",
+"name": "Atera",
+"createdAt": "2023-09-29T06:17:04.683Z",
+"lastModified": "2023-09-29T06:17:04.809Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360041668031-Set-up-a-connection-to-Atera",
+"legacyId": "atera",
+"legacyIds": [
+"atera"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63beb7d5a3a938f8333242ae",
+"name": "Autopilot",
+"createdAt": "2023-03-08T07:09:42.804Z",
+"lastModified": "2023-07-06T11:34:51.883Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4409064179739-Set-up-a-connection-to-Autopilot",
+"legacyId": "autopilot",
+"legacyIds": [
+"autopilot"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "637602e4c973c183523b3ec1",
+"name": "Avalara",
+"createdAt": "2023-01-17T10:42:35.446Z",
+"lastModified": "2023-07-06T11:35:06.343Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038977711-Set-up-a-connection-to-Avalara",
+"legacyId": "avalara",
+"legacyIds": [
+"avalara"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64625e35bef9687ab27dc7a6",
+"name": "Azure form recognizer",
+"createdAt": "2023-07-06T11:23:31.631Z",
+"lastModified": "2023-07-06T11:23:31.683Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/15482613370907",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63fd9ea4da89af77240ff17d",
+"name": "BambooHR",
+"createdAt": "2023-04-12T10:07:18.171Z",
+"lastModified": "2023-07-06T11:35:33.853Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038587812-Set-up-a-connection-to-BambooHR",
+"legacyId": "bamboohr",
+"legacyIds": [
+"bamboohr"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64119375f8a3db54718737e8",
+"name": "BarTender",
+"createdAt": "2023-07-06T11:15:17.383Z",
+"lastModified": "2023-07-06T11:15:17.671Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4411467461531-Set-up-a-connection-to-BarTender",
+"legacyId": "bartender",
+"legacyIds": [
+"bartender"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6503f8a16dd365e7b89d9d59",
+"name": "Blackboard",
+"createdAt": "2023-11-09T06:46:09.160Z",
+"lastModified": "2023-11-09T06:46:09.198Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/19445821075867-Set-up-a-connection-to-Blackboard",
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6345f57469f848d92751bff5",
+"name": "Braintree",
+"createdAt": "2022-11-18T22:20:31.082Z",
+"lastModified": "2023-07-06T11:36:25.705Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4406076959899-Set-up-a-connection-to-Braintree",
+"legacyId": "braintree",
+"legacyIds": [
+"braintree"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63e34c9244f0754a264a8f68",
+"name": "Breezy HR",
+"createdAt": "2023-04-12T10:01:37.322Z",
+"lastModified": "2023-07-06T11:36:26.436Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4411528978971-Set-up-a-connection-to-Breezy-HR",
+"legacyId": "breezyhr",
+"legacyIds": [
+"breezyhr"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "639337d715cefedb3d1ed175",
+"name": "Brex",
+"createdAt": "2023-01-17T10:22:47.047Z",
+"lastModified": "2023-07-06T11:36:39.122Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/5050798695067-Set-up-a-connection-to-Brex",
+"legacyId": "brex",
+"legacyIds": [
+"brex"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6441af6dcc09fc901374dda2",
+"name": "Bronto",
+"createdAt": "2023-05-24T10:53:17.072Z",
+"lastModified": "2023-07-06T11:37:21.256Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038978311-Set-up-a-connection-to-Bronto",
+"legacyId": "bronto",
+"legacyIds": [
+"bronto"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63ecd6ef9cbf45d481be0c8f",
+"name": "BundleB2B",
+"createdAt": "2023-04-12T10:00:36.921Z",
+"lastModified": "2023-07-06T11:37:35.580Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/7638809203867-Bundle-B2B",
+"legacyId": "bundleb2b",
+"legacyIds": [
+"bundleb2b"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6388bd58b57c02ad48260ce5",
+"name": "CartRover",
+"createdAt": "2023-01-17T11:08:37.294Z",
+"lastModified": "2023-07-06T11:40:13.796Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360043324072-Set-up-a-connection-to-CartRover",
+"legacyId": "cartrover",
+"legacyIds": [
+"cartrover"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "644969d2b2f5f7da3b08ac07",
+"name": "Ceridian Dayforce",
+"createdAt": "2023-05-24T11:03:26.616Z",
+"lastModified": "2023-07-06T11:40:25.652Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/14928656708507",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "652e52852d34067f5188da7d",
+"name": "Certify",
+"createdAt": "2023-11-10T05:51:03.980Z",
+"lastModified": "2023-11-10T05:51:04.006Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038899631-Set-up-a-connection-to-Certify",
+"legacyId": "certify",
+"legacyIds": [
+"certify"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63a052b1f538fc96a96bde06",
+"name": "ChannelApe",
+"createdAt": "2023-01-17T10:47:36.158Z",
+"lastModified": "2023-07-06T11:40:38.054Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360051798932-Set-up-a-connection-to-ChannelApe",
+"legacyId": "channelape",
+"legacyIds": [
+"channelape"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "652cc8448cdb03799afc82a3",
+"name": "Chargebee",
+"createdAt": "2023-11-10T05:59:02.440Z",
+"lastModified": "2023-11-10T05:59:02.461Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360039062672-Set-up-a-connection-to-Chargebee",
+"legacyId": "chargebee",
+"legacyIds": [
+"chargebee"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64787da891968986abc9c45b",
+"name": "Chargify",
+"createdAt": "2023-07-06T11:08:37.010Z",
+"lastModified": "2023-07-06T11:08:37.099Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038588792-Set-up-a-connection-to-Chargify",
+"legacyId": "chargify",
+"legacyIds": [
+"chargify"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "641436a4cff4b1cc6f997f09",
+"name": "Clearbit",
+"createdAt": "2023-05-24T11:02:35.058Z",
+"lastModified": "2023-07-06T11:42:35.152Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/14004710545947-Set-up-a-connection-to-Clearbit",
+"apis": [
+"Person API",
+"Company API",
+"Discovery API",
+"Prospector API",
+"Risk API",
+"Reveal API",
+"Autocomplete API"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64b0e3631fe15e624956f30d",
+"name": "Clover",
+"createdAt": "2023-11-10T05:51:46.352Z",
+"lastModified": "2023-11-10T05:51:46.385Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360055266752",
+"legacyId": "clover",
+"legacyIds": [
+"clover"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "637c5817098e3a8865f0a2a3",
+"name": "Confluence Cloud",
+"createdAt": "2023-07-06T11:09:01.940Z",
+"lastModified": "2023-07-06T11:09:01.976Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4411688866715-Set-up-a-connection-to-Confluence-Cloud",
+"legacyId": "confluencecloud",
+"legacyIds": [
+"confluencecloud"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "645a1d00e0f258ea8ec21511",
+"name": "Confluent Kafka",
+"createdAt": "2023-07-06T11:23:38.269Z",
+"lastModified": "2023-07-06T11:23:38.297Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/15289539480987",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64c511732785fe2e84bc2777",
+"name": "Constant Contact",
+"createdAt": "2023-11-09T05:14:44.820Z",
+"lastModified": "2023-11-10T05:54:44.877Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038589232-Set-up-a-connection-to-Constant-Contact",
+"legacyIds": [
+"constantcontactv2",
+"constantcontactv3"
+],
+"apis": [
+"Constant Contact v2",
+"Constant Contact v3"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "641bf489152677e692288215",
+"name": "Cvent",
+"createdAt": "2023-07-06T11:23:51.258Z",
+"lastModified": "2023-07-06T11:23:51.294Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/16508607014427-Cvent-Event-Management",
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "65004918d9a768e4ab348373",
+"name": "D2L Brightspace",
+"createdAt": "2023-09-27T15:05:11.384Z",
+"lastModified": "2023-09-27T15:05:11.426Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63ffa03b8203b2e5ebacb04b",
+"name": "Datadog",
+"createdAt": "2023-04-12T09:58:35.547Z",
+"lastModified": "2023-07-06T11:42:57.549Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/13136726828827-Set-up-a-connection-to-Datadog",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6389c70796d6492cd57eec1f",
+"name": "Demandbase Ads",
+"createdAt": "2023-01-17T08:31:21.773Z",
+"lastModified": "2023-07-06T11:43:25.877Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/10613904597147",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64a52cae431350bd76408f51",
+"name": "Docebo",
+"createdAt": "2023-08-21T11:14:59.914Z",
+"lastModified": "2023-08-21T11:15:00.113Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4412284578331-Set-up-a-connection-to-Docebo",
+"legacyId": "docebo",
+"legacyIds": [
+"docebo"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "641bf489152677e6922881e8",
+"name": "Docparser",
+"createdAt": "2023-05-24T10:58:57.738Z",
+"lastModified": "2023-07-06T11:43:26.906Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/15390567243803-Docparser",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63c10d258a7e7b01365e6937",
+"name": "Drift",
+"createdAt": "2023-03-08T07:10:08.704Z",
+"lastModified": "2023-07-06T11:43:31.072Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4446207717915-Set-up-a-connection-to-Drift",
+"legacyId": "drift",
+"legacyIds": [
+"drift"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6474478db1dbf4ee523fc7ff",
+"name": "Dun & Bradstreet",
+"createdAt": "2023-07-06T11:15:19.108Z",
+"lastModified": "2023-07-06T11:15:19.135Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038984291-Set-up-a-connection-to-Dun-Bradstreet",
+"legacyId": "dunandbradstreet",
+"legacyIds": [
+"dunandbradstreet"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63c914321c04ed4f5cca2e64",
+"name": "EasyPost",
+"createdAt": "2023-05-24T11:20:51.589Z",
+"lastModified": "2023-11-10T05:50:15.279Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038516992-Set-up-a-connection-to-EasyPost",
+"legacyId": "easypost",
+"legacyIds": [
+"easypost"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63bbc4f41718ac0a446848bd",
+"name": "Easyship",
+"createdAt": "2023-03-08T07:16:39.501Z",
+"lastModified": "2023-07-06T11:44:38.525Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360050858812-Set-up-a-connection-to-Easyship",
+"legacyId": "easyship",
+"legacyIds": [
+"easyship"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6502d8177c1af95e59760e0c",
+"name": "Egencia",
+"createdAt": "2023-09-27T15:00:34.824Z",
+"lastModified": "2023-09-27T15:00:34.909Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/18936591559579",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6409ccd96ac0045f84b11490",
+"name": "Etsy",
+"createdAt": "2023-04-12T10:12:59.492Z",
+"lastModified": "2023-07-06T11:44:47.256Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/7673097806235-Set-up-a-connection-to-Etsy",
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64b922a22fa3d95ad58167ba",
+"name": "Exact ERP",
+"createdAt": "2023-08-17T15:28:29.452Z",
+"lastModified": "2023-09-29T06:44:47.620Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038979871-Set-up-a-connection-to-Exact-ERP",
+"legacyId": "exacterp",
+"legacyIds": [
+"exacterp"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63f62c292fdc47c0793d93e5",
+"name": "Faire",
+"createdAt": "2023-04-12T10:09:31.637Z",
+"lastModified": "2023-07-06T11:45:09.901Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360051207972-Set-up-a-connection-to-Faire",
+"legacyId": "faire",
+"legacyIds": [
+"faire"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "641bf489152677e6922881e3",
+"name": "Freightview",
+"createdAt": "2023-08-17T13:25:35.247Z",
+"lastModified": "2023-08-17T13:25:35.358Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/16450760614043-Set-up-a-connection-to-Freightview",
+"apis": [
+"Version v1.0",
+"Version v2.0"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64acfd3b5cc3830bd635dcac",
+"name": "FreshBooks",
+"createdAt": "2023-09-26T11:05:54.641Z",
+"lastModified": "2023-09-29T06:16:09.426Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038517772-Set-up-a-connection-to-FreshBooks",
+"legacyId": "freshbooks",
+"legacyIds": [
+"freshbooks"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63971dd66db3c73259e7989e",
+"name": "Freshdesk",
+"createdAt": "2023-01-17T10:20:37.396Z",
+"lastModified": "2023-11-09T06:45:21.793Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038903031-Set-up-a-connection-to-Freshdesk",
+"legacyId": "freshdesk",
+"legacyIds": [
+"freshdesk"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63f3d52cd56c51f897ab629c",
+"name": "Freshsales",
+"createdAt": "2023-04-12T09:59:12.151Z",
+"lastModified": "2023-09-29T05:07:01.153Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360058252431-Set-up-a-connection-to-Freshworks-CRM",
+"legacyId": "freshworks",
+"legacyIds": [
+"freshworks"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63c878b15307da0360979cfb",
+"name": "Freshservice",
+"createdAt": "2023-03-08T06:50:58.420Z",
+"lastModified": "2023-07-06T11:47:50.871Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/4404378945179-Set-up-a-connection-to-Freshservice",
+"legacyId": "freshservice",
+"legacyIds": [
+"freshservice"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63f494ee45b45577c92ad42d",
+"name": "Fulfillment.com",
+"createdAt": "2023-04-12T10:02:38.805Z",
+"lastModified": "2023-07-06T11:48:19.634Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360059485471-Set-up-a-connection-to-Fulfillment-com",
+"legacyId": "fulfilment.com",
+"legacyIds": [
+"fulfilment.com"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63be7751cc9c2666f36a4f14",
+"name": "G2",
+"createdAt": "2023-03-08T07:00:42.036Z",
+"lastModified": "2023-07-06T11:48:23.182Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360048478612-Set-up-a-connection-to-G2",
+"legacyId": "g2",
+"legacyIds": [
+"g2"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "642aaf81c859b4a282158693",
+"name": "GRMS",
+"createdAt": "2023-07-06T11:05:48.994Z",
+"lastModified": "2023-07-06T11:05:49.552Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038603392-Set-up-a-connection-to-GRMS",
+"legacyId": "grms",
+"legacyIds": [
+"grms"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64b41f50a51e5c3184f9f946",
+"name": "Google BigQuery (REST API)",
+"createdAt": "2023-08-21T11:27:57.216Z",
+"lastModified": "2023-08-21T11:27:57.266Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/6041962972315-Google-BigQuery",
+"legacyId": "bigquery",
+"legacyIds": [
+"bigquery"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "651fd0be36734dadeee1508f",
+"name": "Google Sheets",
+"createdAt": "2023-11-09T05:09:29.795Z",
+"lastModified": "2023-11-10T05:48:18.863Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360057234491-Set-up-a-connection-to-Google-Sheets",
+"legacyId": "googlesheets",
+"legacyIds": [
+"googlesheets"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63b6c4d5df9a4a178811fada",
+"name": "Gorgias",
+"createdAt": "2023-03-08T07:04:47.972Z",
+"lastModified": "2023-07-06T11:48:33.210Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360044684232-Set-up-a-connection-to-Gorgias",
+"legacyId": "gorgias",
+"legacyIds": [
+"gorgias"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "639064a960aecde3eff2c60c",
+"name": "Greenhouse",
+"createdAt": "2023-01-17T10:27:28.457Z",
+"lastModified": "2023-07-06T11:48:55.426Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038985811-Set-up-a-connection-to-Greenhouse",
+"legacyId": "greenhouse",
+"legacyIds": [
+"greenhouse"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6388ccf4a68c1a989aca1ea9",
+"name": "Happy Returns",
+"createdAt": "2023-01-17T10:13:59.688Z",
+"lastModified": "2023-07-06T11:49:39.577Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/5025984284059-Set-up-a-connection-to-Happy-Returns",
+"legacyId": "happyreturns",
+"legacyIds": [
+"happyreturns"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "653222a24dbef5d35d741b7e",
+"name": "HiBob",
+"createdAt": "2023-11-09T06:36:57.220Z",
+"lastModified": "2023-11-09T06:36:57.350Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/19727289012123-HiBob",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "643d3201a3b85dd8d2556a77",
+"name": "Insightly",
+"createdAt": "2023-09-29T06:16:52.557Z",
+"lastModified": "2023-11-09T07:27:12.093Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038520512-Set-up-a-connection-to-Insightly",
+"legacyId": "insightly",
+"legacyIds": [
+"insightly"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63e4ef148616ad99b4688eab",
+"name": "Inspectorio",
+"createdAt": "2023-04-12T10:04:00.647Z",
+"lastModified": "2023-07-06T11:49:42.312Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360045130111-Set-up-a-connection-to-Inspectorio",
+"legacyId": "inspectorio",
+"legacyIds": [
+"inspectorio"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "647f261076b6b75874a984cf",
+"name": "Intercom",
+"createdAt": "2023-09-29T06:06:41.292Z",
+"lastModified": "2023-09-29T06:06:41.323Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360055598951",
+"legacyId": "intercom",
+"legacyIds": [
+"intercom"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63e4dfa7a2417644a39cb5bb",
+"name": "JOOR",
+"createdAt": "2023-04-12T10:02:50.054Z",
+"lastModified": "2023-07-06T11:50:21.855Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360047226132-Set-up-a-connection-to-JOOR",
+"legacyId": "joor",
+"legacyIds": [
+"joor"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64f842233d20f7b2a38b9ae1",
+"name": "Jasper PIM",
+"createdAt": "2023-09-27T15:05:18.524Z",
+"lastModified": "2023-09-27T15:05:18.638Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/18553279999515-Jasper",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "646740d175132373cc23e867",
+"name": "JazzHR",
+"createdAt": "2023-08-21T11:28:51.842Z",
+"lastModified": "2023-08-21T11:28:51.862Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4414650330139-Set-up-a-connection-to-JazzHR",
+"legacyId": "jazzhr",
+"legacyIds": [
+"jazzhr"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "647718a433694cf32563be0d",
+"name": "Jobvite",
+"createdAt": "2023-07-06T11:09:13.969Z",
+"lastModified": "2023-07-06T11:09:13.997Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038521432-Set-up-a-connection-to-Jobvite",
+"legacyId": "jobvite",
+"legacyIds": [
+"jobvite"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "641bf489152677e6922881d2",
+"name": "JumpCloud",
+"createdAt": "2023-05-24T11:00:37.126Z",
+"lastModified": "2023-07-06T11:50:36.256Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/14930572195739",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6480404cc97fa47005ad4a49",
+"name": "Kantata",
+"createdAt": "2023-07-06T11:10:40.821Z",
+"lastModified": "2023-07-06T11:10:40.855Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360061144691-Set-up-a-connection-to-Mavenlink",
+"legacyId": "mavenlink",
+"legacyIds": [
+"mavenlink"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "652f85015d57cd41eef95ee9",
+"name": "Keka",
+"createdAt": "2023-11-09T06:34:32.070Z",
+"lastModified": "2023-11-09T06:34:32.109Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/19727444881819",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6502f9f748b44d0d2905ebe3",
+"name": "Lattice",
+"createdAt": "2023-09-27T14:02:23.115Z",
+"lastModified": "2023-09-27T14:18:36.124Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/18919527045787",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64de29ffff8a75b125a830db",
+"name": "Lazada",
+"createdAt": "2023-09-27T13:41:55.559Z",
+"lastModified": "2023-09-27T14:27:24.358Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/19064942061851",
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "650823286d07a9bb553128fc",
+"name": "Lessonly",
+"createdAt": "2023-09-27T14:34:09.493Z",
+"lastModified": "2023-09-27T14:34:09.524Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/18965359998875",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "647f2c00984168ae16120538",
+"name": "Lever",
+"createdAt": "2023-07-06T11:24:49.488Z",
+"lastModified": "2023-07-06T11:24:49.526Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/16181758813979-Set-up-a-connection-to-Lever",
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "640ec7cb030af48e6a42b28f",
+"name": "LinkedIn Ads",
+"createdAt": "2023-04-12T10:09:56.923Z",
+"lastModified": "2023-07-06T11:50:41.762Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/11414271503771-Set-up-a-connection-to-LinkedIn-Ads",
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "642c26116027e5fe62de2e52",
+"name": "LiquidPlanner",
+"createdAt": "2023-05-24T10:38:07.330Z",
+"lastModified": "2023-07-06T11:50:49.598Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038995331-Set-up-a-connection-to-LiquidPlanner",
+"legacyId": "liquidplanner",
+"legacyIds": [
+"liquidplanner"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "641bf489152677e6922881a3",
+"name": "Listrak",
+"createdAt": "2023-05-24T11:02:21.846Z",
+"lastModified": "2023-07-06T11:54:06.350Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/14208449731227",
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63c6a53e1f8fd78444e02aee",
+"name": "Litmos",
+"createdAt": "2023-03-08T07:01:05.778Z",
+"lastModified": "2023-07-06T11:54:21.578Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360041583572-Set-up-a-connection-to-Litmos",
+"legacyId": "saplitmos",
+"legacyIds": [
+"saplitmos"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63fdc3a018d86bcbecfb9719",
+"name": "Looker",
+"createdAt": "2023-04-12T10:01:51.913Z",
+"lastModified": "2023-07-06T11:55:01.341Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4404602239259-Set-up-a-connection-to-Looker",
+"legacyId": "looker",
+"legacyIds": [
+"looker"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "639184209998e4b191badcb1",
+"name": "Loop Returns",
+"createdAt": "2023-01-17T09:56:41.042Z",
+"lastModified": "2023-07-06T11:55:18.430Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360042069971-Set-up-a-connection-to-Loop-Returns",
+"legacyId": "loopreturns",
+"legacyIds": [
+"loopreturns"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63d28414c3873932a60603d3",
+"name": "Mailgun",
+"createdAt": "2023-11-10T05:49:19.657Z",
+"lastModified": "2023-11-10T05:49:19.676Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038907231-Set-up-a-connection-to-Mailgun",
+"legacyId": "mailgun",
+"legacyIds": [
+"mailgun"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64be46307dc18f7beee73062",
+"name": "MercadoLibre",
+"createdAt": "2023-11-10T05:54:35.647Z",
+"lastModified": "2023-11-10T05:54:35.711Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4415308754331-Set-up-a-Mercado-Libre-connection",
+"legacyId": "mercadolibre",
+"legacyIds": [
+"mercadolibre"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "637214170bb9f36f474e17f9",
+"name": "MessageMedia",
+"createdAt": "2023-01-17T11:15:43.373Z",
+"lastModified": "2023-07-06T11:55:30.181Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4409943575579-Set-up-a-connection-to-MessageMedia",
+"legacyId": "messagemedia",
+"legacyIds": [
+"messagemedia"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6425499394d9b35d2427beeb",
+"name": "Meta",
+"createdAt": "2023-07-06T11:03:42.469Z",
+"lastModified": "2023-11-09T06:39:07.600Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/14068974666395",
+"apis": [
+"Instagram Ads",
+"Facebook Ads"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64ad655ce872d8c441d5f6cd",
+"name": "Microsoft Power Automate",
+"createdAt": "2023-08-21T11:16:16.617Z",
+"lastModified": "2023-08-21T11:16:16.645Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/5187663171739-Microsoft-Power-Automate",
+"legacyId": "microsoftpowerautomate",
+"legacyIds": [
+"microsoftpowerautomate"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64fd5a2e20c143fcfa87abad",
+"name": "Mirakl",
+"createdAt": "2023-09-27T15:04:36.577Z",
+"lastModified": "2023-11-09T06:38:08.822Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/18705482305563-Set-up-a-connection-to-Mirakl",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "637363f7f04f7dc10ccc9e36",
+"name": "Mixpanel",
+"createdAt": "2023-01-17T11:07:35.371Z",
+"lastModified": "2023-07-06T11:55:38.476Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4407693114523-Set-up-a-connection-to-Mixpanel",
+"legacyId": "mixpanel",
+"legacyIds": [
+"mixpanel"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63ca9d8f28c341d7649d9d6d",
+"name": "Namely",
+"createdAt": "2023-07-06T11:11:23.032Z",
+"lastModified": "2023-07-06T11:11:23.054Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038912551-Set-up-a-connection-to-Namely",
+"legacyId": "namely",
+"legacyIds": [
+"namely"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "631e0eb7065d342533672a60",
+"name": "Narvar",
+"createdAt": "2022-09-11T16:37:11.079Z",
+"lastModified": "2023-07-06T11:57:31.155Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/7581392598811-Narvar",
+"apis": [
+"Narvar",
+"Narvar RMA"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "642ca5f125770a381a38dccf",
+"name": "New Relic",
+"createdAt": "2023-05-24T10:49:57.194Z",
+"lastModified": "2023-07-06T11:58:50.991Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038912731-Set-up-a-connection-to-New-Relic",
+"legacyId": "newrelic",
+"legacyIds": [
+"newrelic"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63ea67e455a7ecfbe7698260",
+"name": "Newegg",
+"createdAt": "2023-04-12T10:01:28.870Z",
+"lastModified": "2023-07-06T11:59:21.165Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038548332-Set-up-a-connection-to-Newegg",
+"legacyId": "newegg",
+"legacyIds": [
+"newegg"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6473a4aa72ada1137540098c",
+"name": "Nimble",
+"createdAt": "2023-07-06T11:27:08.978Z",
+"lastModified": "2023-07-06T11:27:08.995Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/15899651588507",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "645507239b6661123bd33392",
+"name": "Oanda",
+"createdAt": "2023-11-10T05:48:37.261Z",
+"lastModified": "2023-11-10T05:48:37.295Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/360007387192-OANDA",
+"legacyIds": [
+"oandaexchangerates",
+"oandav20fxtrade"
+],
+"apis": [
+"OANDA Exchange Rates",
+"OANDA v20 fxTrade"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63be63da9c29d59f7add89cd",
+"name": "Okta",
+"createdAt": "2023-03-08T07:10:41.611Z",
+"lastModified": "2023-07-06T11:59:21.489Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038935591-Set-up-a-connection-to-Okta",
+"legacyId": "okta",
+"legacyIds": [
+"okta"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63c650f5d0e6e3f57021a9f1",
+"name": "Omnisend",
+"createdAt": "2023-03-08T06:56:03.489Z",
+"lastModified": "2023-07-06T12:00:13.289Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4404620597915-Set-up-a-connection-to-Omnisend",
+"legacyId": "omnisend",
+"legacyIds": [
+"omnisend"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63fb74cd5218564533e74618",
+"name": "OneLogin",
+"createdAt": "2023-09-29T06:20:41.522Z",
+"lastModified": "2023-09-29T06:20:41.570Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4403315006875-Set-up-a-connection-to-OneLogin",
+"legacyId": "onelogin",
+"legacyIds": [
+"onelogin"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6425e536bd748551c63024bc",
+"name": "OpenAI",
+"createdAt": "2023-04-28T10:28:27.961Z",
+"lastModified": "2023-09-27T15:15:57.626Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/14501562691611-Set-up-a-connection-to-OpenAI",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64a4192ddf92674e2c52270d",
+"name": "OrangeHRM",
+"createdAt": "2023-08-21T11:19:20.706Z",
+"lastModified": "2023-08-21T11:19:20.740Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4404609033627-Set-up-a-connection-to-OrangeHRM",
+"legacyId": "orangehrm",
+"legacyIds": [
+"orangehrm"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6345f57469f848d92751c00d",
+"name": "Orderful",
+"createdAt": "2023-01-17T09:58:16.122Z",
+"lastModified": "2023-07-06T12:00:50.127Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360045125731-Set-up-a-connection-to-Orderful",
+"legacyId": "orderful",
+"legacyIds": [
+"orderful"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64ad54dee633da3a4d3a683e",
+"name": "Outreach",
+"createdAt": "2023-08-17T15:46:31.620Z",
+"lastModified": "2023-08-21T11:40:58.761Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4409996457627-Set-up-a-connection-to-Outreach",
+"legacyId": "outreach",
+"legacyIds": [
+"outreach"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64aec35218753df453b8e716",
+"name": "PDFfiller",
+"createdAt": "2023-09-26T11:02:49.946Z",
+"lastModified": "2023-09-29T06:06:08.727Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038606732-Set-up-a-connection-to-PDFfiller",
+"legacyId": "pdffiller",
+"legacyIds": [
+"pdffiller"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63ecd57cf74cf6530c5dd595",
+"name": "Pacejet",
+"createdAt": "2023-04-12T10:08:44.163Z",
+"lastModified": "2023-07-06T12:00:59.786Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038549152-Set-up-a-connection-to-Pacejet",
+"legacyId": "pacejet",
+"legacyIds": [
+"pacejet"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64ac8cc64e94257a33f58d00",
+"name": "PagerDuty",
+"createdAt": "2023-08-21T11:11:49.683Z",
+"lastModified": "2023-08-21T11:11:50.709Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/4404969586075-PagerDuty",
+"legacyIds": [
+"pagerduty",
+"pagerdutyevents"
+],
+"apis": [
+"PagerDuty",
+"PagerDuty events"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "647d9f2dff0fe4f8093f083b",
+"name": "PandaDoc",
+"createdAt": "2023-08-21T11:18:21.132Z",
+"lastModified": "2023-08-21T11:18:21.174Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/4404624545563-PandaDoc",
+"legacyId": "pandadoc",
+"legacyIds": [
+"pandadoc"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "643693342c23dea446acae37",
+"name": "Parseur",
+"createdAt": "2023-07-06T11:10:35.369Z",
+"lastModified": "2023-07-06T11:10:35.393Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038606312-Set-up-a-connection-to-Parseur",
+"legacyId": "parseur",
+"legacyIds": [
+"parseur"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63e8fda739d6fdc5cc2d0639",
+"name": "PayPal",
+"createdAt": "2023-04-12T10:04:52.212Z",
+"lastModified": "2023-07-06T12:01:23.364Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360039930052-Set-up-a-connection-to-PayPal",
+"legacyId": "paypal",
+"legacyIds": [
+"paypal"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64129db23957974c3191abe0",
+"name": "Paycor",
+"createdAt": "2023-04-12T10:01:28.085Z",
+"lastModified": "2023-07-06T12:01:56.048Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360043426451-Set-up-a-connection-to-Paycor",
+"legacyId": "paycor",
+"legacyIds": [
+"paycor"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6492fdeb4c73ac1512fa4023",
+"name": "Paylocity",
+"createdAt": "2023-08-21T11:15:41.528Z",
+"lastModified": "2023-08-21T11:15:41.557Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/4404942591259-Set-up-a-connection-to-Paylocity",
+"legacyId": "paylocity",
+"legacyIds": [
+"paylocity"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6448dc4a016771f4ca040991",
+"name": "Pendo",
+"createdAt": "2023-05-24T11:00:40.357Z",
+"lastModified": "2023-07-06T12:01:57.048Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/15104489285659-Set-up-a-connection-to-Pendo",
+"apis": [
+"Pendo Engage API",
+"Pendo Track API"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6530dd7849673e2c90abea8c",
+"name": "Personio",
+"createdAt": "2023-11-09T06:40:10.776Z",
+"lastModified": "2023-11-09T06:40:10.903Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/19727453590043-Set-up-a-connection-to-Personio",
+"apis": [
+"Personnel data",
+"Recruiting"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "649a7daa0077f2a37793eb40",
+"name": "Pinecone",
+"createdAt": "2023-07-06T11:25:31.127Z",
+"lastModified": "2023-11-09T06:32:14.734Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/16698701593883-Set-up-a-connection-to-Pinecone",
+"apis": [
+"Vector operations",
+"Index operations"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6493cefd5e6efa16125cd79a",
+"name": "Pipedrive",
+"createdAt": "2023-08-21T11:16:58.138Z",
+"lastModified": "2023-11-09T06:43:57.376Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/360012596952-Pipedrive",
+"legacyId": "pipedrive",
+"legacyIds": [
+"pipedrive"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "642bb7bd70296992ab10fdd9",
+"name": "Pitney Bowes",
+"createdAt": "2023-07-06T11:05:19.583Z",
+"lastModified": "2023-07-06T11:05:19.610Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038997351-Set-up-a-connection-to-Pitney-Bowes",
+"legacyId": "pitneybowes",
+"legacyIds": [
+"pitneybowes"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64761d0d9fa0ea976012979e",
+"name": "Postmark",
+"createdAt": "2023-07-06T11:06:01.815Z",
+"lastModified": "2023-09-29T06:44:29.882Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038608972-Set-up-a-connection-to-Postmark",
+"legacyId": "postmark",
+"legacyIds": [
+"postmark"
+],
+"apis": [
+"Postmark - Account token",
+"Postmark - Server token"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64ac0d0001b71d650a1decb5",
+"name": "PracticePanther",
+"createdAt": "2023-08-17T15:05:34.341Z",
+"lastModified": "2023-08-21T10:58:22.605Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4412947489179-Set-up-a-connection-to-PracticePanther",
+"legacyId": "practicepanther",
+"legacyIds": [
+"practicepanther"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64a529ee703e75d55cfc9e0a",
+"name": "Precisely",
+"createdAt": "2023-08-21T11:22:53.358Z",
+"lastModified": "2023-08-21T11:22:53.388Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360048864752-Set-up-a-connection-to-Precisely",
+"legacyId": "precisely",
+"legacyIds": [
+"precisely"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63ea2187a772951a087b4ca6",
+"name": "PrestaShop",
+"createdAt": "2023-08-21T11:32:53.817Z",
+"lastModified": "2023-08-21T11:32:53.867Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360057797272-Set-up-a-connection-to-PrestaShop",
+"legacyId": "prestashop",
+"legacyIds": [
+"prestashop"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64128b242f57fa51eb671c97",
+"name": "Propack",
+"createdAt": "2023-04-12T10:01:29.672Z",
+"lastModified": "2023-07-06T12:02:16.311Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4412755570203-Set-up-a-connection-to-Propack-P3PL",
+"legacyId": "propack",
+"legacyIds": [
+"propack"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6373573b89c51c87a45f7f4b",
+"name": "Pulseway",
+"createdAt": "2023-05-24T10:49:51.698Z",
+"lastModified": "2023-07-06T12:02:16.840Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360039000251-Set-up-a-connection-to-Pulseway",
+"legacyId": "pulseway",
+"legacyIds": [
+"pulseway"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "649b3b19ebf5a25fb3ba9c15",
+"name": "QuickBooks",
+"createdAt": "2023-08-21T11:16:49.873Z",
+"lastModified": "2023-08-21T11:16:49.925Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360039000791-Set-up-a-connection-to-QuickBooks",
+"legacyId": "quickbooks",
+"legacyIds": [
+"quickbooks"
+],
+"apis": [
+"Accounting API",
+"Payment API"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63d89248651f9aac93b13455",
+"name": "Quickbase",
+"createdAt": "2023-03-08T06:54:09.921Z",
+"lastModified": "2023-07-06T12:02:24.134Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4405467219483-Set-up-a-connection-to-Quickbase",
+"legacyId": "quickbase",
+"legacyIds": [
+"quickbase"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63c65c6a99e82decfc9b9f3c",
+"name": "Quip",
+"createdAt": "2023-05-24T10:37:43.470Z",
+"lastModified": "2023-07-06T12:02:42.962Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038610452-Set-up-a-connection-to-Quip",
+"legacyId": "quip",
+"legacyIds": [
+"quip"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64bfede51e040f2c75ca4052",
+"name": "RabbitMQ",
+"createdAt": "2023-08-17T13:23:18.979Z",
+"lastModified": "2023-08-17T13:23:19.052Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/17303441602971-Set-up-a-connection-to-RabbitMQ",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6345f57469f848d92751c037",
+"name": "ReCharge",
+"createdAt": "2023-03-08T09:57:00.613Z",
+"lastModified": "2023-07-06T12:05:06.650Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4403487075597-Set-up-a-connection-to-ReCharge",
+"legacyId": "recharge",
+"legacyIds": [
+"recharge"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6461e2765caaf85f29185d89",
+"name": "Recurly",
+"createdAt": "2023-07-06T11:17:09.500Z",
+"lastModified": "2023-07-06T11:17:09.544Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038610892-Set-up-a-connection-to-Recurly",
+"legacyId": "recurly",
+"legacyIds": [
+"recurly"
+],
+"apis": [
+"Recurly v2",
+"Recurly v3"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6516d4920a3248c4e9bf5468",
+"name": "Rippling",
+"createdAt": "2023-11-09T06:40:54.208Z",
+"lastModified": "2023-11-09T06:40:54.237Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/19352851074075",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63f7bcd73ca8e334faaa2875",
+"name": "SAP Business ByDesign",
+"createdAt": "2023-09-29T06:17:35.335Z",
+"lastModified": "2023-09-29T06:17:46.069Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4404740648091-Set-up-a-connection-to-SAP-Business-ByDesign",
+"legacyId": "sapbydesign",
+"legacyIds": [
+"sapbydesign"
+],
+"apis": [
+"SOAP API",
+"OData"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "645cd1ad5083bda21991a6ee",
+"name": "SAP S/4HANA Cloud",
+"createdAt": "2023-08-21T11:30:51.047Z",
+"lastModified": "2023-11-09T06:54:07.676Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/4407961860635-SAP-S-4HANA-Cloud",
+"legacyId": "saphana",
+"legacyIds": [
+"saphana"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63fe2b9a23ac53134c665bae",
+"name": "SAP SuccessFactors",
+"createdAt": "2023-11-10T06:04:54.241Z",
+"lastModified": "2023-11-10T06:04:54.265Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4405049601179-Set-up-a-connection-to-SAP-SuccessFactors",
+"legacyId": "sapsuccessfactors",
+"legacyIds": [
+"sapsuccessfactors"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63d8b0e326c88c104e651728",
+"name": "Sage Intacct",
+"createdAt": "2023-04-12T10:09:57.729Z",
+"lastModified": "2023-07-06T12:06:14.438Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/13845771667867-Set-up-a-connection-to-Sage-Intacct",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64affda507f0b75eeddd901c",
+"name": "Sageone",
+"createdAt": "2023-08-17T15:10:46.625Z",
+"lastModified": "2023-08-21T11:08:32.646Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360039002371-Set-up-a-connection-to-Sage-One",
+"legacyId": "sageone",
+"legacyIds": [
+"sageone"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6459e5a5ef359a3977fe5c50",
+"name": "Salsify",
+"createdAt": "2023-07-06T11:25:38.403Z",
+"lastModified": "2023-11-09T06:44:37.273Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/15288076330651-Set-up-a-connection-to-Salsify",
+"apis": [
+"Salsify v1",
+"Salsify"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64065b9ce762882be7f8d58c",
+"name": "Segment",
+"createdAt": "2023-04-12T10:01:30.417Z",
+"lastModified": "2023-07-06T12:08:24.871Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4416467384475-Set-up-a-connection-to-Segment",
+"legacyId": "segment",
+"legacyIds": [
+"segment"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "653e4dcb0344504a0b56b13c",
+"name": "SerpApi",
+"createdAt": "2023-11-09T06:44:36.742Z",
+"lastModified": "2023-11-09T06:44:36.767Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/20000217540763",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "652d06651190e6f448e3981d",
+"name": "SharePoint",
+"createdAt": "2023-11-09T05:11:18.136Z",
+"lastModified": "2023-11-10T05:46:41.113Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038613812-Set-up-a-connection-to-SharePoint",
+"legacyId": "sharepoint",
+"legacyIds": [
+"sharepoint"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "65290652db4dab4e3edf5650",
+"name": "Shift4Shop",
+"createdAt": "2023-11-10T05:44:21.612Z",
+"lastModified": "2023-11-10T07:47:47.453Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360039181552",
+"legacyId": "3dcart",
+"legacyIds": [
+"3dcart"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63d758d8344c4e2358d24f81",
+"name": "ShipEngine",
+"createdAt": "2023-03-08T06:57:15.878Z",
+"lastModified": "2023-07-06T12:08:29.448Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360050206452-Set-up-a-connection-to-ShipEngine",
+"legacyId": "shipengine",
+"legacyIds": [
+"shipengine"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64743822612d0b7e73abe637",
+"name": "ShipHawk",
+"createdAt": "2023-07-06T11:09:27.230Z",
+"lastModified": "2023-07-06T11:09:27.266Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360039005391-Set-up-a-connection-to-ShipHawk",
+"legacyId": "shiphawk",
+"legacyIds": [
+"shiphawk"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "638def1c22b61fbf0387bc3c",
+"name": "ShipStation",
+"createdAt": "2023-01-17T10:34:58.190Z",
+"lastModified": "2023-07-06T12:09:05.912Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038937051-Set-up-a-connection-to-ShipStation",
+"legacyId": "shipstation",
+"legacyIds": [
+"shipstation"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64a4385f27ac559c80ab9654",
+"name": "Shipbob",
+"createdAt": "2023-08-17T15:13:30.648Z",
+"lastModified": "2023-08-21T11:01:21.012Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360040164632-Set-up-a-connection-to-ShipBob",
+"legacyId": "shipbob",
+"legacyIds": [
+"shipbob"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6488734f65cb08f700f2cf57",
+"name": "Shippo",
+"createdAt": "2023-07-06T11:07:40.357Z",
+"lastModified": "2023-07-06T11:07:40.377Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038937031-Set-up-a-connection-to-Shippo",
+"legacyId": "shippo",
+"legacyIds": [
+"shippo"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "652795f173fc5b0618c26365",
+"name": "Shipwire",
+"createdAt": "2023-11-10T05:57:54.842Z",
+"lastModified": "2023-11-10T05:57:54.868Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360039005811-Set-up-a-connection-to-Shipwire",
+"legacyId": "shipwire",
+"legacyIds": [
+"shipwire"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64ec754c2614d6462a799c99",
+"name": "Shopee",
+"createdAt": "2023-09-27T13:41:42.942Z",
+"lastModified": "2023-09-27T13:43:52.155Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/18977953970715",
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64abc135694cd0719ed069b8",
+"name": "Skubana",
+"createdAt": "2023-08-17T15:17:02.914Z",
+"lastModified": "2023-08-21T11:00:27.426Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038937191-Set-up-a-connection-to-Skubana",
+"legacyId": "skubana",
+"legacyIds": [
+"skubana"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "650d6edd98ca71f1a2936232",
+"name": "SmartRecruiters",
+"createdAt": "2023-11-09T06:41:30.192Z",
+"lastModified": "2023-11-09T06:41:30.259Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/19305597019419-SmartRecruiters",
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63cf752d7aad515fa994fc3a",
+"name": "Snapfulfil",
+"createdAt": "2023-11-10T06:03:19.454Z",
+"lastModified": "2023-11-10T06:03:19.473Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038937331-Set-up-a-connection-to-Snapfulfil",
+"legacyId": "snapfulfil",
+"legacyIds": [
+"snapfulfil"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6422fc47009e886e2cf2e5ac",
+"name": "Splunk",
+"createdAt": "2023-04-25T09:36:41.199Z",
+"lastModified": "2023-11-09T06:54:38.341Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/14897550025755",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6527de801c5dc10d3a19707c",
+"name": "Spree Commerce",
+"createdAt": "2023-11-10T05:56:09.140Z",
+"lastModified": "2023-11-10T05:56:09.171Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038937731-Set-up-a-connection-to-Spree-Commerce",
+"legacyId": "spreecommerce",
+"legacyIds": [
+"spreecommerce"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "651fe5f5cb8ade3e80e962ec",
+"name": "Sprout Solutions",
+"createdAt": "2023-11-09T06:35:14.616Z",
+"lastModified": "2023-11-09T06:35:14.675Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/19540691969947-Set-up-a-connection-to-Sprout-Solutions",
+"apis": [
+"Clock in/out",
+"Non-clock in/out"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6384ac104342b8126f874ae2",
+"name": "Stripe",
+"createdAt": "2023-01-17T10:04:00.226Z",
+"lastModified": "2023-11-09T06:39:48.451Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360039007511-Set-up-a-connection-to-Stripe",
+"legacyId": "stripe",
+"legacyIds": [
+"stripe"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64a55f91dbfc771c34fdf952",
+"name": "SugarCRM",
+"createdAt": "2023-09-29T04:52:03.683Z",
+"lastModified": "2023-11-09T07:24:32.874Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038552072-Set-up-a-connection-to-SugarCRM",
+"legacyId": "sugarcrm",
+"legacyIds": [
+"sugarcrm"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64a6dfc8857b9046c342f20c",
+"name": "SurveyMonkey",
+"createdAt": "2023-08-21T11:27:34.307Z",
+"lastModified": "2023-11-09T06:34:30.562Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360041460932-Set-up-a-connection-to-SurveyMonkey",
+"legacyId": "surveymonkey",
+"legacyIds": [
+"surveymonkey"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6543630ff6bd2a6af7aebd9c",
+"name": "SysAid",
+"createdAt": "2023-11-09T06:33:33.729Z",
+"lastModified": "2023-11-09T06:33:33.758Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/20067235751067",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64ad3dca4e32d833af3d3d53",
+"name": "TSheets",
+"createdAt": "2023-08-17T15:23:36.478Z",
+"lastModified": "2023-08-21T10:58:04.714Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038552632-Set-up-a-connection-to-TSheets",
+"legacyId": "tsheets",
+"legacyIds": [
+"tsheets"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6450bbaee10c79180016b7ec",
+"name": "Tallyfy",
+"createdAt": "2023-05-24T10:59:01.378Z",
+"lastModified": "2023-07-06T12:14:11.676Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/15109930461979#Client-Info",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63c6a728190bfe6c9bbbbee4",
+"name": "TaxJar",
+"createdAt": "2023-07-06T11:13:57.724Z",
+"lastModified": "2023-07-06T11:13:59.326Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038552192-Set-up-a-connection-to-TaxJar",
+"legacyId": "taxjar",
+"legacyIds": [
+"taxjar"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "642566f94181bf7c94654115",
+"name": "Tesco",
+"createdAt": "2023-05-24T10:50:26.428Z",
+"lastModified": "2023-07-06T12:19:14.799Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038552552-Set-up-a-connection-to-Tesco",
+"legacyId": "tesco",
+"legacyIds": [
+"tesco"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64991f627514ad257db25764",
+"name": "TikTok",
+"createdAt": "2023-08-24T14:15:49.588Z",
+"lastModified": "2023-08-25T10:27:13.719Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/17416657820827-Set-up-a-connection-to-TikTok",
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6500921d0dc14106206ae9bc",
+"name": "TikTok shop",
+"createdAt": "2023-09-27T14:11:10.189Z",
+"lastModified": "2023-11-09T06:36:00.714Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/18704681856155",
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63d749ad643e9d9a1ed77c26",
+"name": "Tophatter",
+"createdAt": "2023-05-24T10:37:16.904Z",
+"lastModified": "2023-07-06T12:19:22.321Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360039007751-Set-up-a-connection-to-Tophatter",
+"legacyId": "tophatter",
+"legacyIds": [
+"tophatter"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6447a8b2e6433876c01dde7e",
+"name": "Trello",
+"createdAt": "2023-07-06T11:26:00.087Z",
+"lastModified": "2023-07-06T11:26:00.108Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/14905560998043-Set-up-a-connection-to-Trello",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "6389da220c9a95c2170bee51",
+"name": "TriNet",
+"createdAt": "2023-01-17T10:59:00.089Z",
+"lastModified": "2023-07-06T12:19:40.430Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038616912-Set-up-a-connection-to-TriNet",
+"legacyId": "trinet",
+"legacyIds": [
+"trinet"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "652673ca8fe0eb76bb2d9cac",
+"name": "Twilio",
+"createdAt": "2023-11-10T06:01:56.815Z",
+"lastModified": "2023-11-10T06:01:56.834Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360038939991#Client-Info",
+"legacyId": "twilio",
+"legacyIds": [
+"twilio"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "641ddac796d84c115ae895f1",
+"name": "Twitter Ads",
+"createdAt": "2023-05-24T11:01:30.547Z",
+"lastModified": "2023-07-06T12:20:15.146Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/14503850336795",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "65006949eab5677dd77c62aa",
+"name": "UKG Pro",
+"createdAt": "2023-09-27T13:25:26.269Z",
+"lastModified": "2023-09-27T13:56:12.991Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/18706518039195",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "631e0ebf065d342533672a92",
+"name": "UPS",
+"createdAt": "2022-09-11T16:37:19.937Z",
+"lastModified": "2023-07-06T12:21:46.801Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/7672970238619-UPS",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64a65cef7bbbce30c5dc92a3",
+"name": "Vend",
+"createdAt": "2023-08-17T15:23:58.291Z",
+"lastModified": "2023-08-21T10:57:40.384Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4403558147469-Set-up-a-connection-to-Vend",
+"legacyId": "vend",
+"legacyIds": [
+"vend"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63c148fe3170df2db389f0b1",
+"name": "Vroozi",
+"createdAt": "2023-03-08T07:06:07.922Z",
+"lastModified": "2023-07-06T12:21:52.917Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360041787332-Set-up-a-connection-to-Vroozi",
+"legacyId": "vroozi",
+"legacyIds": [
+"vroozi"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "631e0eb7065d342533672b60",
+"name": "Walmart",
+"createdAt": "2023-09-29T06:16:39.513Z",
+"lastModified": "2023-09-29T06:16:39.590Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360061620931-Set-up-a-connection-to-Walmart-US",
+"legacyIds": [
+"walmart",
+"walmartcanada",
+"walmartmexico"
+],
+"apis": [
+"Walmart US",
+"Walmart Canada",
+"Walmart Mexico"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "638880df6d37a9300c09ddee",
+"name": "Ware2Go",
+"createdAt": "2023-01-17T11:14:20.314Z",
+"lastModified": "2023-08-21T11:33:28.738Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/4409406728987-Ware2Go",
+"legacyId": "ware2go",
+"legacyIds": [
+"ware2go"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "631e0eca6592db322b5395fa",
+"name": "Workday",
+"createdAt": "2022-09-11T16:37:30.859Z",
+"lastModified": "2023-11-09T06:34:28.236Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/8148561387291-Workday",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64a55ea26d9a5fca7105d07a",
+"name": "Wrike",
+"createdAt": "2023-08-17T15:24:03.291Z",
+"lastModified": "2023-08-21T10:51:39.969Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360039009231-Set-up-a-connection-to-Wrike",
+"legacyId": "wrike",
+"legacyIds": [
+"wrike"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63a95e65b75a6b6d47507b38",
+"name": "Yotpo",
+"createdAt": "2023-03-08T06:56:45.955Z",
+"lastModified": "2023-07-06T12:23:36.746Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360060046751-Set-up-a-connection-to-Yotpo",
+"legacyId": "yotpo",
+"legacyIds": [
+"yotpo"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63bfbd1765aa89dd7e56c278",
+"name": "Zenefits",
+"createdAt": "2023-03-08T06:52:28.453Z",
+"lastModified": "2023-07-06T12:23:41.046Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4404257438107-Set-up-a-connection-to-Zenefits",
+"legacyId": "zenefits",
+"legacyIds": [
+"zenefits"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63fce1f98e8185a170c68321",
+"name": "Zimbra",
+"createdAt": "2023-07-06T11:20:15.397Z",
+"lastModified": "2023-07-06T11:20:15.417Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4410387089307-Set-up-a-connection-to-Zimbra",
+"legacyId": "zimbra",
+"legacyIds": [
+"zimbra"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "649e5951556b7fca92410d54",
+"name": "Zoho Expense",
+"createdAt": "2023-08-21T11:13:55.437Z",
+"lastModified": "2023-08-21T11:13:57.286Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/4412216619163-Set-up-a-connection-to-Zoho-Expense",
+"legacyId": "zohoexpense",
+"legacyIds": [
+"zohoexpense"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "650d82379387eedb09670cac",
+"name": "Zoho People",
+"createdAt": "2023-11-09T06:50:56.999Z",
+"lastModified": "2023-11-09T06:50:57.029Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/19127881937179",
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63ef1f9824dfe13a30da7c69",
+"name": "Zoom",
+"createdAt": "2023-07-06T11:09:45.092Z",
+"lastModified": "2023-07-06T11:09:45.124Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360047243552-Set-up-a-connection-to-Zoom",
+"legacyId": "zoom",
+"legacyIds": [
+"zoom"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63fdad61a3ec7e9138dab4e3",
+"name": "ZoomInfo",
+"createdAt": "2023-04-12T09:58:01.590Z",
+"lastModified": "2023-07-06T12:23:53.778Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/13635190325275-Set-up-a-connection-to-ZoomInfo",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "63a5538663fc9b3444424147",
+"name": "dotdigital",
+"createdAt": "2023-03-08T06:58:28.759Z",
+"lastModified": "2023-07-06T12:24:01.889Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/360051238652-Set-up-a-connection-to-dotdigital",
+"legacyId": "dotdigital",
+"legacyIds": [
+"dotdigital"
+],
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "652f89cfb5dc114426449eed",
+"name": "greytHR",
+"createdAt": "2023-11-09T06:38:22.196Z",
+"lastModified": "2023-11-09T06:38:22.229Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/articles/19727376014491-Set-up-a-connection-to-GreytHR",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64a65fc71e62a8507b7d53ce",
+"name": "lexbizz",
+"createdAt": "2023-08-21T11:23:54.996Z",
+"lastModified": "2023-11-09T06:46:49.665Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/360010159752-lexbizz",
+"legacyId": "lexbizz",
+"legacyIds": [
+"lexbizz"
+],
+"isGraphQL": false,
+"supportsIClient": true,
+"hasBlobEndpoints": false
+},
+{
+"_id": "64f770ce4594d61f8b4142e7",
+"name": "storyblok",
+"createdAt": "2023-09-27T13:24:26.410Z",
+"lastModified": "2023-09-27T13:24:26.441Z",
+"_userId": "6316f2b1e37e79778a43391c",
+"helpURL": "https://docs.celigo.com/hc/en-us/sections/18548261441563-Storyblok",
+"isGraphQL": false,
+"supportsIClient": false,
+"hasBlobEndpoints": false
+}
+]

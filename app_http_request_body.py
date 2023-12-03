@@ -17,7 +17,7 @@ load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 st.set_page_config(layout="wide")
-record_id = 0
+record_id = 1
 dataset_filename = "dataset.json"
 
 
@@ -32,7 +32,6 @@ def add_record(obj):
 def get_flattened_keys(prefix, record):
     all_fields = []
     for key, value in record.items():
-        print(type(key), type(value), key, value)
         if type(value) is dict:
             fields = get_flattened_keys(key, value)
             all_fields.extend(fields)
@@ -53,8 +52,9 @@ def merge_dicts(dict1, dict2):
     return dict1
 
 
-def from_flattened(final_obj, flat_key_values_dict):
+def from_flattened(flat_key_values_dict):
     obj = {}
+    final_obj = {}
     print("Entered from_flatted with {}\n\n".format(flat_key_values_dict))
 
     for i, (key, value) in enumerate(flat_key_values_dict.items()):
@@ -92,35 +92,43 @@ def create_nested_dict(keys, value):
 
 def main():
     dataset = load_dataset(dataset_filename)
+    connector_uids = [obj["uid"] for obj in dataset]
+    option = st.selectbox(
+        "Select Connector and the method",
+        connector_uids,
+        placeholder="Select the Connector and the method",
+    )
+    record_id = connector_uids.index(option)
+    # st.write("Record id={}".format(record_id))
     record = dataset[record_id]
     export_record = record["export_record"]
     fields_to_import = record["import_fields"]
-    print("Loaded {} records".format(len(dataset)))
-    option = st.selectbox(
-        "Import Connector and the method",
-        ("Zoom: Create Meeting",),
-        index=None,
-        placeholder="Select the Connector and the method",
-    )
     available_resouces = st.text_area(
         "Available Resources",
         json.dumps(add_record(export_record), indent=4),
         height=300,
     )
+    print("Loaded {} records".format(len(dataset)))
     c1, c2 = st.columns((1, 1))
     # fields_from_export = list(export_record.keys())
     fields_from_export = get_flattened_keys("", export_record)
     print("All fields={}".format(fields_from_export))
-    ht = c1.text_area("Fields from Export", "\n".join(fields_from_export), height=300)
-    ar = c2.text_area("Fields to Import", "\n".join(fields_to_import), height=300)
-
-    txt_message = st.text_area(
-        "Celigo AI",
-        "Generate the handlebars template for creating the HTTP Request Body",
+    ta_fields_from_export = c1.text_area(
+        "Fields from Export", "\n".join(fields_from_export), height=300
     )
-    debug = st.checkbox("Debug", value=True)
+    ta_fields_to_import = c2.text_area(
+        "Fields to Import", "\n".join(fields_to_import), height=300
+    )
+
+    #    txt_message = st.text_area(
+    #        "Celigo AI",
+    #        "Generate the handlebars template for creating the HTTP Request Body",
+    #    )
+    debug = st.checkbox("Debug", value=False)
     submit = st.button("Submit")
     if submit:
+        fields_from_export = ta_fields_from_export.split("\n")
+        fields_to_import = ta_fields_to_import.split("\n")
         messages = createPromptWithGenerateAndSources(
             fields_from_export, fields_to_import
         )
@@ -139,13 +147,16 @@ def main():
             lines.append(line)
             final_mapping_obj[src_field] = "{{{{ {} }}}}".format(dest_field)
 
-        # st.text_area("Response", response, height=300)
-        st.text_area("Mapping", "\n".join(lines), height=300)
-        st.text_area(
-            "Flat Handlebar", json.dumps(final_mapping_obj, indent=4), height=300
-        )
-        nested_dict = from_flattened({}, final_mapping_obj)
-        st.text_area("Nested Handlebar", json.dumps(nested_dict, indent=4), height=300)
+        if debug:
+            st.text_area("Response", response, height=300)
+        if debug:
+            st.text_area("Mapping", "\n".join(lines), height=300)
+        if debug:
+            st.text_area(
+                "Flat Handlebar", json.dumps(final_mapping_obj, indent=4), height=300
+            )
+        nested_dict = from_flattened(final_mapping_obj)
+        st.text_area("Handlebar", json.dumps(nested_dict, indent=4), height=300)
 
 
 if __name__ == "__main__":
