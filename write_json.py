@@ -18,6 +18,7 @@ import_fields = ["meeting_id", "name", "save_recurrence", "overwrite"]
 obj = {}
 obj["connector_name"] = connector_name
 obj["connector_endpoint"] = connector_endpoint
+obj["connector_uri"] = connector_uri
 obj["export_record"] = export_record
 obj["import_fields"] = import_fields
 
@@ -71,6 +72,7 @@ import_fields = [
 obj = {}
 obj["connector_name"] = connector_name
 obj["connector_endpoint"] = connector_endpoint
+obj["connector_uri"] = connector_uri
 obj["export_record"] = export_record
 obj["import_fields"] = import_fields
 obj["uid"] = connector_uid

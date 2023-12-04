@@ -101,8 +101,10 @@ def main():
     record_id = connector_uids.index(option)
     # st.write("Record id={}".format(record_id))
     record = dataset[record_id]
+    connector_uri = record["connector_uri"]
     export_record = record["export_record"]
     fields_to_import = record["import_fields"]
+    st.text(connector_uri)
     available_resouces = st.text_area(
         "Available Resources",
         json.dumps(add_record(export_record), indent=4),
@@ -145,7 +147,7 @@ def main():
             src_field = field["source"]
             line = "{} <==> {}".format(src_field, dest_field)
             lines.append(line)
-            final_mapping_obj[src_field] = "{{{{ {} }}}}".format(dest_field)
+            final_mapping_obj[src_field] = "{{{{ record.{} }}}}".format(dest_field)
 
         if debug:
             st.text_area("Response", response, height=300)
